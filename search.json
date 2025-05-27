@@ -1,5 +1,19 @@
 [
   {
+    "objectID": "docs/data_product.html",
+    "href": "docs/data_product.html",
+    "title": "shiny_okr",
+    "section": "",
+    "text": "This document summarises the shiny_okr …\nShiny web app to get feedback on OKRs\n\n\n\nRepository name: shiny_okr\nAuthor: Actuarist AI\nRepository location: git@github.com:actuaristai/shiny_okr.git"
+  },
+  {
+    "objectID": "docs/data_product.html#key-info",
+    "href": "docs/data_product.html#key-info",
+    "title": "shiny_okr",
+    "section": "",
+    "text": "Repository name: shiny_okr\nAuthor: Actuarist AI\nRepository location: git@github.com:actuaristai/shiny_okr.git"
+  },
+  {
     "objectID": "reference/index.html",
     "href": "reference/index.html",
     "title": "Function reference",
@@ -20,20 +34,6 @@
       "Reference API",
       "Function reference"
     ]
-  },
-  {
-    "objectID": "docs/data_product.html",
-    "href": "docs/data_product.html",
-    "title": "shiny_okr",
-    "section": "",
-    "text": "This document summarises the shiny_okr …\nShiny web app to get feedback on OKRs\n\n\n\nRepository name: shiny_okr\nAuthor: Actuarist AI\nRepository location: git@github.com:actuaristai/shiny_okr.git"
-  },
-  {
-    "objectID": "docs/data_product.html#key-info",
-    "href": "docs/data_product.html#key-info",
-    "title": "shiny_okr",
-    "section": "",
-    "text": "Repository name: shiny_okr\nAuthor: Actuarist AI\nRepository location: git@github.com:actuaristai/shiny_okr.git"
   },
   {
     "objectID": "reference/hello.html",
