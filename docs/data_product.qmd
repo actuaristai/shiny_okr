@@ -1,0 +1,24 @@
+---
+title: "shiny_okr"
+format: 
+    html:
+        number-sections: true
+        html-table-processing: none
+jupyter: shiny_okr # uv run python -m ipykernel install --user --name shiny_okr
+echo: false
+execute:
+  freeze: auto  # re-render only when source changes
+---
+
+# Executive Summary
+
+This document summarises the shiny_okr ...
+
+Shiny web app to get feedback on OKRs
+
+## Key info
+
+-   Repository name: shiny_okr
+-   Author: Actuarist AI
+-   Repository location: git@github.com:actuaristai/shiny_okr.git
+

@@ -1,0 +1,8 @@
+# Changes here will be overwritten by Copier; NEVER EDIT MANUALLY
+_commit: 1.4.1
+_src_path: git@github.com:actuaristai/template.git
+email: human@actuarist.ai
+full_name: Actuarist AI
+project_name: shiny_okr
+project_short_description: Shiny web app to get feedback on OKRs
+remote_repository: git@github.com:actuaristai/shiny_okr.git
