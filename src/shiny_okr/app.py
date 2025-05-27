@@ -43,12 +43,25 @@ def feedback_output() -> ui.HTML:
 
     # Only generate feedback if the button has been clicked.
     if input.get_feedback_btn() > 0:
-        okr_input = {'objective': input.Objective(),
-                     'key_result1': input.Key_result1(),
-                     'key_result2': input.Key_result2(),
-                     'key_result3': input.Key_result3(),
-                     'key_result4': input.Key_result4(),
-                     'key_result5': input.Key_result5()}
+        objective = input.Objective()
+        key_results = [
+            input.Key_result1(),
+            input.Key_result2(),
+            input.Key_result3(),
+            input.Key_result4(),
+            input.Key_result5(),
+        ]
+        filled_key_results = [kr for kr in key_results if kr]
+
+        if not objective or len(filled_key_results) < 3:  # noqa: PLR2004
+            return ui.HTML('<p style="color: red;">Please fill in the Objective and at least 3 Key Results.</p>')
+
+        okr_input = {'objective': objective,
+                     'key_result1': key_results[0],
+                     'key_result2': key_results[1],
+                     'key_result3': key_results[2],
+                     'key_result4': key_results[3],
+                     'key_result5': key_results[4]}
 
         try:
             # Make the API call
