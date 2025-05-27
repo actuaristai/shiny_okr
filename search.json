@@ -1,0 +1,62 @@
+[
+  {
+    "objectID": "reference/index.html",
+    "href": "reference/index.html",
+    "title": "Function reference",
+    "section": "",
+    "text": "Functions to inspect docstrings.\n\n\n\nhello\nStart here for scripts.",
+    "crumbs": [
+      "Reference API",
+      "Function reference"
+    ]
+  },
+  {
+    "objectID": "reference/index.html#api-reference",
+    "href": "reference/index.html#api-reference",
+    "title": "Function reference",
+    "section": "",
+    "text": "Functions to inspect docstrings.\n\n\n\nhello\nStart here for scripts.",
+    "crumbs": [
+      "Reference API",
+      "Function reference"
+    ]
+  },
+  {
+    "objectID": "docs/data_product.html",
+    "href": "docs/data_product.html",
+    "title": "shiny_okr",
+    "section": "",
+    "text": "This document summarises the shiny_okr …\nShiny web app to get feedback on OKRs\n\n\n\nRepository name: shiny_okr\nAuthor: Actuarist AI\nRepository location: git@github.com:actuaristai/shiny_okr.git"
+  },
+  {
+    "objectID": "docs/data_product.html#key-info",
+    "href": "docs/data_product.html#key-info",
+    "title": "shiny_okr",
+    "section": "",
+    "text": "Repository name: shiny_okr\nAuthor: Actuarist AI\nRepository location: git@github.com:actuaristai/shiny_okr.git"
+  },
+  {
+    "objectID": "reference/hello.html",
+    "href": "reference/hello.html",
+    "title": "hello",
+    "section": "",
+    "text": "hello\nStart here for scripts.\n\n\n\n\n\nName\nDescription\n\n\n\n\nadd_numbers\nAdd two numbers.\n\n\n\n\n\nhello.add_numbers(first_num, second_num)\nAdd two numbers.\nArgs: first_num (int): first number to add second_num (int): second number to add\nReturns: int: sum of two numbers\nExamples: &gt;&gt;&gt; add_numbers(1, 2) 3",
+    "crumbs": [
+      "Reference API",
+      "API reference",
+      "hello"
+    ]
+  },
+  {
+    "objectID": "reference/hello.html#functions",
+    "href": "reference/hello.html#functions",
+    "title": "hello",
+    "section": "",
+    "text": "Name\nDescription\n\n\n\n\nadd_numbers\nAdd two numbers.\n\n\n\n\n\nhello.add_numbers(first_num, second_num)\nAdd two numbers.\nArgs: first_num (int): first number to add second_num (int): second number to add\nReturns: int: sum of two numbers\nExamples: &gt;&gt;&gt; add_numbers(1, 2) 3",
+    "crumbs": [
+      "Reference API",
+      "API reference",
+      "hello"
+    ]
+  }
+]
