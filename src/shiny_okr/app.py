@@ -1,8 +1,9 @@
 """Shiny app for OKR template."""
 from chatlas import ChatOpenAI
-from conf.config import conf
 from markdown import markdown
 from shiny.express import input, render, ui  # noqa: A004
+
+from shiny_okr.conf.config import conf
 
 chat = ChatOpenAI(model='gpt-4o-mini',
                   system_prompt="""
