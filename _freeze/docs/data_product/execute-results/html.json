@@ -1,0 +1,12 @@
+{
+  "hash": "8f773ce6122f7e5b85f83857a647e1e3",
+  "result": {
+    "engine": "jupyter",
+    "markdown": "---\ntitle: \"shiny_okr\"\nformat: \n    html:\n        number-sections: true\n        html-table-processing: none\njupyter: shiny_okr # uv run python -m ipykernel install --user --name shiny_okr\necho: false\nexecute:\n  freeze: auto  # re-render only when source changes\n---\n\n# Executive Summary\n\nThis document summarises the shiny_okr ...\n\nShiny web app to get feedback on OKRs\n\n## Key info\n\n-   Repository name: shiny_okr\n-   Author: Actuarist AI\n-   Repository location: git@github.com:actuaristai/shiny_okr.git\n\n",
+    "supporting": [
+      "data_product_files"
+    ],
+    "filters": [],
+    "includes": {}
+  }
+}
