@@ -1,4 +1,4 @@
-"""Shiny app for OKR template."""
+"""Applying OKRs."""
 import requests  # For making HTTP requests to the new API
 from markdown import markdown
 from shiny.express import input, render, ui  # noqa: A004
